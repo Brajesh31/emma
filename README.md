@@ -74,7 +74,6 @@ emma-assistant/
 
 1. **Clone the repository**
 
-```bash
 git clone https://github.com/yourusername/emma-assistant.git
 cd emma-assistant
 Install dependencies
@@ -129,6 +128,8 @@ Spotify/Youtube playback
 OCR and Image-to-Text feature
 
 Face Recognition for login
+
+
 
 👨‍💻 About the Developer
 Brajesh Kumar
